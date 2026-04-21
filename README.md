@@ -1,8 +1,13 @@
-## Hệ thống quan trắc chất lượng nước sử dụng IoT & Machine Learning
+## 🌊 Hệ thống quan trắc chất lượng nước sử dụng IoT & Machine Learning
 
 ---
 
 ## 📌 Giới thiệu
+
+<p align="center">
+  <img src="images/system.png" width="700"/><br>
+  <em>Sơ đồ tổng thể hệ thống IoT giám sát chất lượng nước</em>
+</p>
 
 Dự án xây dựng hệ thống **giám sát chất lượng nước trong nuôi trồng thủy sản ngoài biển** theo thời gian thực.
 
@@ -24,28 +29,28 @@ Hệ thống sử dụng:
 
 ---
 
-## 🏗️ Hệ thống tổng thể
-
-### 📷 Sơ đồ hệ thống
-<!-- Thêm ảnh sơ đồ hệ thống -->
-![System Architecture](images/system.png)
-
----
-
 ## 🔧 Phần cứng
 
-### 📷 Cảm biến sử dụng
-<!-- Thêm ảnh cảm biến -->
-![Sensor](images/sensor.png)
+<p align="center">
+  <img src="images/hardware.png" width="500"/><br>
+  <em>Thiết bị phần cứng thực tế</em>
+</p>
+
+<p align="center">
+  <img src="images/sensor.png" width="350"/><br>
+  <em>Cảm biến đo chất lượng nước</em>
+</p>
 
 ---
 
 ## 📊 Kết quả
 
-### 📷 Giao diện giám sát
-<!-- Thêm ảnh dashboard -->
-![Dashboard](images/dashboard.png)
+<p align="center">
+  <img src="images/dashboard.png" width="600"/><br>
+  <em>Giao diện giám sát thời gian thực</em>
+</p>
 
-### 📷 Dữ liệu thực nghiệm
-<!-- Thêm ảnh biểu đồ / kết quả -->
-![Result](images/result.png)
+<p align="center">
+  <img src="images/result.png" width="600"/><br>
+  <em>Kết quả thực nghiệm và phân tích dữ liệu</em>
+</p>
